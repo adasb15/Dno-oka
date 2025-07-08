@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+Pillow
+opencv-python
+scikit-image==0.24.0
+scikit-learn==1.6.1
+imbalanced-learn
+joblib
+matplotlib
+torch
+segmentation-models-pytorch

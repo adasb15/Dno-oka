@@ -1,0 +1,13 @@
+Jak uruchomić aplikację:
+- Rozpakować ZIP
+- Otworzyć folder najlepiej przy użyciu PyCharm'a
+- Jeśli środowisko samo się nie utworzy, utworzyć je najlepiej przy użyciu Python 3.11 (na tej wersji był tworzony projekt)
+- Jeśli środowisko samo nie pobierze odpowiednich bibliotek wpisać w terminalu "pip install -r requirements.txt",
+  plik ten zawiera wystarczające biblioteki w odpowiedniej wersji do uruchomienia aplikacji (był przeprowadzony test,
+  który pokazał, że po ich instalacji wszystko działa)
+- Aktywować środowisko w terminalu: ".\venv\Scripts\activate"
+- aplikacja gotowa do użytku, aby ją uruchomić należy wpisać w terminalu: "streamlit run app.py"
+
+Autorzy:
+- Aleksandra Bamberska
+- Adam Biernacki
